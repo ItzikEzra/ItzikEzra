@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hii👋 <br> 
+I'm Itzik Ezra, final year undergraduate student. <br>
+I'm looking for a junior software position | junior Frontend position.
 
-<!--
-**ItzikEzra/ItzikEzra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌎I'm from Israel
+- 🔭 I’m currently B.Sc Computer science student at HiT <br>
+- ⚡ Languages and technologies: C, C++, C# ,python <br>
+                  HTML, CSS, JavaScript <br>
+                  Sql. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me: 
+- [linkedin](https://www.linkedin.com/in/itzikezra-devloper/)
+- <a href="mailto:itzikezra11@gmail.com">Send email</a>
+
