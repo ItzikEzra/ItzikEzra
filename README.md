@@ -11,5 +11,5 @@ I'm looking for a junior software position | junior Frontend position.
 
 - 📫 Reach me: 
 - [linkedin](https://www.linkedin.com/in/itzikezra-devloper/)
-- <a href="mailto:itzikezra11@gmail.com">Send email</a>
+- <a href="mailto:itzikezra11@gmail.com">Send me email</a>
 
